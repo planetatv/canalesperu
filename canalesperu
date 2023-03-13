@@ -1,0 +1,90 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="GOL PERU *HQ" tvg-logo="https://i.imgur.com/tXBJOOd.png" group-title="DEPORTES", GOL PERU *HQ
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15865
+
+#EXTINF:-1 tvg-id="PAINDA" tvg-logo="https://i.imgur.com/tXBJOOd.png" group-title="DEPORTES", GOL PERU *HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15866
+
+#EXTINF:-1 tvg-id="ESPN PE *HD" tvg-logo="https://i.imgur.com/hKVXGUv.png" group-title="DEPORTES", ESPN PE *HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/19982
+
+#EXTINF:-1 tvg-id="TIGO SPORTS *HD" tvg-logo="https://i.imgur.com/ujQLQ9T.png" group-title="DEPORTES", TIGO SPORTS *HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15361
+
+
+#EXTINF:-1 tvg-id="AMTVHDA" tvg-logo="https://i.imgur.com/zzO1ZsW.png" group-title="PERU", PE: América TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
+
+#EXTINF:-1 tvg-id="ATVPHDA" tvg-logo="https://i.imgur.com/BEdUMD1.png" group-title="PERU", PE: ATV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/157
+
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://i.imgur.com/BEdUMD1.png" group-title="PERU", PE: ATV HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/14024
+
+#EXTINF:-1 tvg-id="PE: Latina" tvg-logo="https://i.imgur.com/pbxB67t.png" group-title="PERU", PE: Latina
+http://138.255.102.3:25461/RestreaminPARA5122/eUDT949enE/206
+
+#EXTINF:-1 tvg-id="FRLTDA" tvg-logo="https://i.imgur.com/pbxB67t.png" group-title="PERU", PE: Latina HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4320
+
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://i.imgur.com/G2tA03z.png" group-title="PERU", PE: ATV+
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/14027
+
+#EXTINF:-1 tvg-id="RPP" tvg-logo="https://i.imgur.com/G2tA03z.png" group-title="PERU", PE: ATV+ HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/14028
+
+#EXTINF:-1 tvg-id="WILLAX" tvg-logo="https://i.imgur.com/xHWzLdF.png" group-title="PERU", PE: Panamericana
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/14747
+
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-logo="https://i.imgur.com/kfqkwyS.png" group-title="PERU", PE: TV Perú
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-id="PE: Panamericana HD" tvg-logo="https://i.imgur.com/xHWzLdF.png" group-title="PERU", PE: Panamericana HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15043
+
+#EXTINF:-1 tvg-id="AMTVHDA" tvg-logo="https://i.imgur.com/kfqkwyS.png" group-title="PERU", PE: TV Perú HD
+http://138.255.102.3:25461/RestreaminPARA5122/eUDT949enE/3933
+
+#EXTINF:-1 tvg-id="ATVPHDA" tvg-logo="https://i.imgur.com/9xhADwg.png" group-title="PERU", PE: Canal IPe
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15845
+
+#EXTINF:-1 tvg-id="ATVPLHD" tvg-logo="https://i.imgur.com/zhPAyWK.png" group-title="PERU", PE: Canal N
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15846
+
+#EXTINF:-1 tvg-id="PE: Canal N HD" tvg-logo="https://i.imgur.com/zhPAyWK.png" group-title="PERU", PE: Canal N HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15847
+
+#EXTINF:-1 tvg-id="330fdc64a68efc8ac22dc1e95e7ab3e4" tvg-logo="https://i.imgur.com/WYY8dMP.png" group-title="PERU", PE: RPP
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15854
+
+#EXTINF:-1 tvg-id="ATVPLHD" tvg-logo="https://i.imgur.com/WYY8dMP.png" group-title="PERU", PE: RPP HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15855
+
+#EXTINF:-1 tvg-id="PE: Movistar Plus HD" tvg-logo="https://i.imgur.com/qsWsOEH.png" group-title="PERU", PE: Movistar Plus HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15861
+
+#EXTINF:-1 tvg-id="PE: Karibeña TV" tvg-logo="https://i.imgur.com/bBh3WTF.png" group-title="PERU", PE: Karibeña TV
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15868
+
+#EXTINF:-1 tvg-id="PERUHDA" tvg-logo="https://i.imgur.com/UbInXv9.png" group-title="PERU", PE: Exitosa TV
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15869
+
+#EXTINF:-1 tvg-id="golperu.pe" tvg-logo="https://i.imgur.com/qsWsOEH.png" group-title="PERU", PE: Movistar Plus
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15860
+
+#EXTINF:-1 tvg-id="PE: Global TV" tvg-logo="https://i.imgur.com/2kkhJ45.png" group-title="PERU", PE: Global TV
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15867
+
+#EXTINF:-1 tvg-id="WILLAX" tvg-logo="https://i.imgur.com/c9NnJq2.png" group-title="PERU", PE: Willax
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/15870
+
+#EXTINF:-1 tvg-id="PAINDA" tvg-logo="https://i.imgur.com/rE5ekhl.png" group-title="PERU", PE: Perú Mágico
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
+
+#EXTINF:-1 tvg-id="PE: Willax HD" tvg-logo="https://i.imgur.com/c9NnJq2.png" group-title="PERU", PE: Willax HD
+http://51.222.108.195:25461/0014497A076E/XtrmWin69/16968
+
+#EXTINF:-1 tvg-id="PMAGIC" tvg-logo="https://i.imgur.com/zzO1ZsW.png" group-title="PERU", PE: América TV HD
+http://138.255.102.3:25461/re
